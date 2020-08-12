@@ -1,9 +1,5 @@
-# ipynb_checkpoints
-.ipynb_checkpoints
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+
 
 # config file
 .config
 config/
-*config
