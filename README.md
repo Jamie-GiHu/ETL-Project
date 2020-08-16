@@ -32,7 +32,7 @@ We will be putting the information into a SQL database, because we believe the s
 
 ADDITIONAL - TIME PENDING
 
-4.    WEBSITE:
+D    WEBSITE:
 * Build a basic website from a template to demonstrate who the data may be utilised by a consumer.
 * Query the pricing sql database to extract the lowest price and display on a website that queries the database.
 
