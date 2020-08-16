@@ -139,13 +139,13 @@
     rangeSlider.slider({
         range: true,
         min: 1,
-        max: 4000,
-        values: [800, 3200],
+        max: 100000,
+        values: [1000, 3200],
         slide: function (event, ui) {
-            $("#amount").val("$" + ui.values[0] + " - $" + ui.values[1] + ".10");
+            $("#amount").val("$" + ui.values[0] + " - $" + ui.values[1] + "");
         }
     });
-    $("#amount").val("$" + $(".price-range").slider("values", 0) + " - $" + $(".price-range").slider("values", 1) + ".100");
+    $("#amount").val("$" + $(".price-range").slider("values", 0) + " - $" + $(".price-range").slider("values", 1) + "");
 
     var carSlider = $(".car-price-range");
     carSlider.slider({
@@ -154,7 +154,7 @@
         max: 4000,
         values: [900, 3000],
         slide: function (event, ui) {
-            $("#caramount").val("$" + ui.values[0] + " - $" + ui.values[1] + ".10");
+            $("#caramount").val("$" + ui.values[0] + " - $" + ui.values[1] + "");
         }
     });
     $("#caramount").val("$" + $(".car-price-range").slider("values", 0) + " - $" + $(".car-price-range").slider("values", 1) + ".100");
