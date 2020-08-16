@@ -503,6 +503,19 @@ ol {
 }
 
 /*---------------------
+  Winner Image
+-----------------------*/
+.wiiner_img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+
+
+/*---------------------
   Hero
 -----------------------*/
 
@@ -745,7 +758,7 @@ ol {
 	padding-bottom: 55px;
 }
 
-.feature:after {
+/* .feature:after {
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -757,7 +770,7 @@ ol {
 	-ms-transform: translate(-300px, -202px);
 	transform: translate(-300px, -202px);
 	z-index: -1;
-}
+} */
 
 .feature__text .section-title {
 	text-align: left;
