@@ -1,4 +1,4 @@
-PROJECT BRIEF:
+### PROJECT BRIEF:
 
 To compare prices at three major retailers to obtain the data to where consumers should purchase TV’s.  An additional retailer (Harvey Norman) was added after there were problems with JB Hifi (explained in the report).
 
