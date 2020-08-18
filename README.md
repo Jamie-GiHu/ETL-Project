@@ -53,7 +53,7 @@ https://docs.google.com/document/d/1l2jfcqFcHQY6tJFci6olXn_G2GmE8IN77Cu7BaS0mSg/
 * Final_Schema.sql
 
 <strong>3. Report</strong>
-* ETL_Project_Report_14_08_20 (which includes ERD)
+* ETL_Project_Report_14_08_20.docx (which includes ERD)
 
 <strong>4. Web Proposal and Template</strong>
 * Some templates for our mock website 
