@@ -40,3 +40,21 @@ FINAL:
 Report - As below.
 
 https://docs.google.com/document/d/1l2jfcqFcHQY6tJFci6olXn_G2GmE8IN77Cu7BaS0mSg/edit?usp=sharing
+
+### FILES SUBMITTED:
+
+<strong>1. Extract</strong>
+* Extract_Bing_Lee.ipynb
+* Extract_Good_Guys.ipynb
+* Extract_Harvey_Norman.ipynb
+
+<strong>2. Transform & Load</strong>
+* Final_Transform.ipynb
+* Final_Schema.sql
+
+<strong>3. Report</strong>
+* ETL_Project_Report_14_08_20 (which includes ERD)
+
+<strong>4. Web Proposal and Template</strong>
+* Some templates for our mock website 
+
